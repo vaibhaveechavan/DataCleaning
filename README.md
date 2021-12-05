@@ -1,4 +1,4 @@
-# DataCleaningPractice
+# Data Cleaning
 
 Practiced Data Cleaning on the Nashville Housing dataset using SQL.
 
